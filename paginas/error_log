@@ -1,0 +1,67 @@
+[06-Aug-2018 21:15:20 America/Chicago] PHP Warning:  Division by zero in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 20
+[06-Aug-2018 21:15:20 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 24
+[06-Aug-2018 21:15:49 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 19
+[06-Aug-2018 21:15:49 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 19
+[06-Aug-2018 21:15:50 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 19
+[06-Aug-2018 21:15:50 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 19
+[06-Aug-2018 21:16:21 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 47
+[06-Aug-2018 21:16:22 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 47
+[06-Aug-2018 21:16:23 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 47
+[06-Aug-2018 21:16:23 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 47
+[06-Aug-2018 21:16:23 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 47
+[06-Aug-2018 21:16:38 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 51
+[06-Aug-2018 21:16:41 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 51
+[06-Aug-2018 21:19:41 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 36
+[06-Aug-2018 21:20:05 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 36
+[06-Aug-2018 21:21:15 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 35
+[06-Aug-2018 21:21:37 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:21:38 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:21:38 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:21:38 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:21:38 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:21:38 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:21:39 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:21:39 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:21:39 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:21:39 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:21:39 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:21:39 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:21:40 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:21:40 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:21:40 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:22:03 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:22:05 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:22:05 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:22:06 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:22:06 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:22:06 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:22:06 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:22:07 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:22:07 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:22:07 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 17
+[06-Aug-2018 21:23:14 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 16
+[06-Aug-2018 21:41:56 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 16
+[06-Aug-2018 21:59:13 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 16
+[06-Aug-2018 23:37:05 America/Chicago] PHP Fatal error:  Call to undefined function number_of_rows() in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 32
+[07-Aug-2018 19:11:15 America/Chicago] PHP Warning:  Illegal string offset 'nombre' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 38
+[07-Aug-2018 19:14:51 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 38
+[07-Aug-2018 19:15:09 America/Chicago] PHP Warning:  Illegal string offset 'nombre' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 38
+[07-Aug-2018 19:36:27 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 33
+[16-Aug-2018 14:41:20 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Un cervatillo crece en el bosque junto al conejo Thumper, Flor el zorrillo y un b\xfa...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php:47
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php(47): SoapClient->__call('spMostrarPeliAn...', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php(47): SoapClient->spMostrarPeliAndroid(0, 100)
+#2 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 47
+[16-Aug-2018 14:49:52 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Un cervatillo crece en el bosque junto al conejo Thumper, Flor el zorrillo y un b\xfa...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php:47
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php(47): SoapClient->__call('spMostrarPeliAn...', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php(47): SoapClient->spMostrarPeliAndroid(0, 100)
+#2 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 47
+[16-Aug-2018 14:51:27 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Un cervatillo crece en el bosque junto al conejo Thumper, Flor el zorrillo y un b\xfa...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php:47
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php(47): SoapClient->__call('spMostrarPeliAn...', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php(47): SoapClient->spMostrarPeliAndroid(0, 100)
+#2 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginarAndroid.php on line 47

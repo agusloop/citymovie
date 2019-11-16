@@ -1,0 +1,2 @@
+[10-Jul-2018 15:26:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wearelio/citymovie.weare8lions.com.mx/Faride/mostrar.php on line 64
+[10-Jul-2018 15:26:15 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/wearelio/citymovie.weare8lions.com.mx/Faride/mostrar.php on line 83

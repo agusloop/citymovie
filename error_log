@@ -1,0 +1,250 @@
+[26-Jun-2018 19:52:18 America/Chicago] PHP Warning:  require_once(paginas/principal.php): failed to open stream: No such file or directory in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[26-Jun-2018 19:52:18 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'paginas/principal.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[26-Jun-2018 19:59:52 America/Chicago] PHP Warning:  require_once(paginas/principal.php): failed to open stream: No such file or directory in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[26-Jun-2018 19:59:52 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'paginas/principal.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[26-Jun-2018 20:01:47 America/Chicago] PHP Warning:  require_once(paginas/principal.php): failed to open stream: No such file or directory in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[26-Jun-2018 20:01:47 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'paginas/principal.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[26-Jun-2018 20:03:30 America/Chicago] PHP Warning:  require_once(paginas/principal.php): failed to open stream: No such file or directory in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[26-Jun-2018 20:03:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'paginas/principal.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[26-Jun-2018 20:16:43 America/Chicago] PHP Warning:  require_once(paginas/principal.php): failed to open stream: No such file or directory in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[26-Jun-2018 20:16:43 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'paginas/principal.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:08:53 America/Chicago] PHP Warning:  require_once(paginas/eee.php): failed to open stream: No such file or directory in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:08:53 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'paginas/eee.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:13:42 America/Chicago] PHP Warning:  require_once(paginas/eee.php): failed to open stream: No such file or directory in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:13:42 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'paginas/eee.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:14:45 America/Chicago] PHP Warning:  require_once(paginas/eee.php): failed to open stream: No such file or directory in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:14:45 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'paginas/eee.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:15:46 America/Chicago] PHP Warning:  require_once(paginas/eee.php): failed to open stream: No such file or directory in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:15:46 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'paginas/eee.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:16:02 America/Chicago] PHP Warning:  require_once(paginas/eee.php): failed to open stream: No such file or directory in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:16:02 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'paginas/eee.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:17:16 America/Chicago] PHP Warning:  require_once(paginas/eee.php): failed to open stream: No such file or directory in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:17:16 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'paginas/eee.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:18:13 America/Chicago] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 20
+[27-Jun-2018 01:18:13 America/Chicago] PHP Warning:  move_uploaded_file(http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27011813.jpg): failed to open stream: no suitable wrapper could be found in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 20
+[27-Jun-2018 01:18:13 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjH392B' to 'http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27011813.jpg' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 20
+[27-Jun-2018 01:18:13 America/Chicago] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[27-Jun-2018 01:18:13 America/Chicago] PHP Warning:  move_uploaded_file(http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27011813.jpg): failed to open stream: no suitable wrapper could be found in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[27-Jun-2018 01:18:13 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjH392B' to 'http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27011813.jpg' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[27-Jun-2018 01:18:17 America/Chicago] PHP Warning:  require_once(paginas/paginas/eee.php): failed to open stream: No such file or directory in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:18:17 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'paginas/paginas/eee.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:18:22 America/Chicago] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 20
+[27-Jun-2018 01:18:22 America/Chicago] PHP Warning:  move_uploaded_file(http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27011822.jpg): failed to open stream: no suitable wrapper could be found in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 20
+[27-Jun-2018 01:18:22 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQbLdxJ' to 'http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27011822.jpg' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 20
+[27-Jun-2018 01:18:22 America/Chicago] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[27-Jun-2018 01:18:22 America/Chicago] PHP Warning:  move_uploaded_file(http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27011822.jpg): failed to open stream: no suitable wrapper could be found in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[27-Jun-2018 01:18:22 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQbLdxJ' to 'http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27011822.jpg' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[27-Jun-2018 01:18:49 America/Chicago] PHP Warning:  require_once(paginas/paginas/eee.php): failed to open stream: No such file or directory in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:18:49 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'paginas/paginas/eee.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:21:33 America/Chicago] PHP Warning:  require_once(paginas/paginas/eee.php): failed to open stream: No such file or directory in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:21:33 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'paginas/paginas/eee.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:21:41 America/Chicago] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 20
+[27-Jun-2018 01:21:41 America/Chicago] PHP Warning:  move_uploaded_file(http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27012141.jpg): failed to open stream: no suitable wrapper could be found in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 20
+[27-Jun-2018 01:21:41 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8fF7YP' to 'http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27012141.jpg' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 20
+[27-Jun-2018 01:21:41 America/Chicago] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[27-Jun-2018 01:21:41 America/Chicago] PHP Warning:  move_uploaded_file(http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27012141.jpg): failed to open stream: no suitable wrapper could be found in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[27-Jun-2018 01:21:41 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8fF7YP' to 'http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27012141.jpg' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[27-Jun-2018 01:21:46 America/Chicago] PHP Warning:  require_once(paginas/paginas/eee.php): failed to open stream: No such file or directory in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:21:46 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'paginas/paginas/eee.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:40:31 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 22
+[27-Jun-2018 01:40:31 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpoR3GYt' to '/home/wearelio/citymovie.weare8lions.com.mx/paginas/imgUp' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 22
+[27-Jun-2018 01:40:31 America/Chicago] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 42
+[27-Jun-2018 01:40:31 America/Chicago] PHP Warning:  move_uploaded_file(http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27014031.jpg): failed to open stream: no suitable wrapper could be found in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 42
+[27-Jun-2018 01:40:31 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpoR3GYt' to 'http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27014031.jpg' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 42
+[27-Jun-2018 01:40:51 America/Chicago] PHP Warning:  require_once(paginas/paginas/eee.php): failed to open stream: No such file or directory in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:40:51 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'paginas/paginas/eee.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:42:33 America/Chicago] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 20
+[27-Jun-2018 01:42:33 America/Chicago] PHP Warning:  move_uploaded_file(http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27014233.jpg): failed to open stream: no suitable wrapper could be found in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 20
+[27-Jun-2018 01:42:33 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppoB9Rp' to 'http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27014233.jpg' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 20
+[27-Jun-2018 01:42:33 America/Chicago] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[27-Jun-2018 01:42:33 America/Chicago] PHP Warning:  move_uploaded_file(http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27014233.jpg): failed to open stream: no suitable wrapper could be found in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[27-Jun-2018 01:42:33 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppoB9Rp' to 'http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27014233.jpg' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[27-Jun-2018 01:42:58 America/Chicago] PHP Warning:  require_once(paginas/paginas/eee.php): failed to open stream: No such file or directory in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:42:58 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'paginas/paginas/eee.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[27-Jun-2018 01:44:36 America/Chicago] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 20
+[27-Jun-2018 01:44:36 America/Chicago] PHP Warning:  move_uploaded_file(http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27014436.jpg): failed to open stream: no suitable wrapper could be found in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 20
+[27-Jun-2018 01:44:36 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpoL7bgs' to 'http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27014436.jpg' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 20
+[27-Jun-2018 01:44:36 America/Chicago] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[27-Jun-2018 01:44:36 America/Chicago] PHP Warning:  move_uploaded_file(http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27014436.jpg): failed to open stream: no suitable wrapper could be found in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[27-Jun-2018 01:44:36 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpoL7bgs' to 'http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27014436.jpg' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[27-Jun-2018 01:50:42 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 22
+[27-Jun-2018 01:50:42 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpcpZKBW' to '/home/wearelio/citymovie.weare8lions.com.mx/paginas' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 22
+[27-Jun-2018 01:50:42 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 44
+[27-Jun-2018 01:50:42 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpcpZKBW' to '/home/wearelio/citymovie.weare8lions.com.mx/paginas' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 44
+[27-Jun-2018 01:52:38 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 18
+[27-Jun-2018 01:52:38 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[27-Jun-2018 02:03:06 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 22
+[27-Jun-2018 02:03:06 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWb2oAX' to '/home/wearelio/citymovie.weare8lions.com.mx/paginas/imgUp' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 22
+[27-Jun-2018 02:03:06 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 44
+[27-Jun-2018 02:03:06 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWb2oAX' to '/home/wearelio/citymovie.weare8lions.com.mx/paginas/imgUp' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 44
+[27-Jun-2018 02:08:23 America/Chicago] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 20
+[27-Jun-2018 02:08:23 America/Chicago] PHP Warning:  move_uploaded_file(http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27020823.jpg): failed to open stream: no suitable wrapper could be found in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 20
+[27-Jun-2018 02:08:23 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJpWwGv' to 'http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27020823.jpg' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 20
+[27-Jun-2018 02:08:23 America/Chicago] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[27-Jun-2018 02:08:23 America/Chicago] PHP Warning:  move_uploaded_file(http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27020823.jpg): failed to open stream: no suitable wrapper could be found in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[27-Jun-2018 02:08:23 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJpWwGv' to 'http://citymovie.weare8lions.com.mx/paginas/imgUp/imagen27020823.jpg' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/principal.php on line 40
+[28-Jun-2018 12:32:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/wearelio/citymovie.weare8lions.com.mx/index.php:12) in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 2
+[28-Jun-2018 12:32:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wearelio/citymovie.weare8lions.com.mx/index.php:12) in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 2
+[28-Jun-2018 12:32:40 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Mas all\xe1...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:52
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(52): SoapClient->__call('mostrarPelicula...', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(52): SoapClient->mostrarPeliculas(0, 5)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(16): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 52
+[28-Jun-2018 12:33:53 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Mas all\xe1...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:52
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(52): SoapClient->__call('mostrarPelicula...', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(52): SoapClient->mostrarPeliculas(0, 5)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(16): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 52
+[28-Jun-2018 12:34:25 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Mas all\xe1...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:52
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(52): SoapClient->__call('mostrarPelicula...', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(52): SoapClient->mostrarPeliculas(0, 5)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(16): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 52
+[28-Jun-2018 12:35:14 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Mas all\xe1...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:52
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(52): SoapClient->__call('mostrarPelicula...', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(52): SoapClient->mostrarPeliculas(0, 5)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(16): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 52
+[28-Jun-2018 12:35:25 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Mas all\xe1...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:52
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(52): SoapClient->__call('mostrarPelicula...', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(52): SoapClient->mostrarPeliculas(0, 5)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(16): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 52
+[28-Jun-2018 12:37:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/wearelio/citymovie.weare8lions.com.mx/index.php:12) in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 2
+[28-Jun-2018 12:37:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wearelio/citymovie.weare8lions.com.mx/index.php:12) in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 2
+[28-Jun-2018 12:37:05 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Mas all\xe1...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:52
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(52): SoapClient->__call('mostrarPelicula...', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(52): SoapClient->mostrarPeliculas(0, 5)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(16): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 52
+[28-Jun-2018 12:37:34 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Mas all\xe1...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:51
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->__call('mostrarPelicula...', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->mostrarPeliculas(0, 5)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(16): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 51
+[28-Jun-2018 12:45:15 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Mas all\xe1...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:51
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->__call('mostrarPelicula...', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->mostrarPeliculas(0, 5)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(16): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 51
+[28-Jun-2018 12:47:43 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] Function 'mostrarPeliculas' doesn't exist in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:51
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->__call('mostrarPelicula...', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->mostrarPeliculas(0, 5)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(16): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 51
+[28-Jun-2018 12:50:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/wearelio/citymovie.weare8lions.com.mx/index.php:12) in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 5
+[28-Jun-2018 12:50:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wearelio/citymovie.weare8lions.com.mx/index.php:12) in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 5
+[28-Jun-2018 12:50:27 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Mas all\xe1...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:55
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(55): SoapClient->__call('spMostrarPeli', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(55): SoapClient->spMostrarPeli(0, 5)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(16): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 55
+[28-Jun-2018 12:51:08 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Mas all\xe1...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:53
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(53): SoapClient->__call('spMostrarPeli', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(53): SoapClient->spMostrarPeli(0, 5)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(16): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 53
+[28-Jun-2018 12:53:43 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Mas all\xe1...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:51
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->__call('spMostrarPeli', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->spMostrarPeli(0, 5)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(16): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 51
+[28-Jun-2018 12:54:45 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Mas all\xe1...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:51
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->__call('spMostrarPeli', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->spMostrarPeli(0, 5)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(16): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 51
+[28-Jun-2018 12:59:57 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Mas all\xe1...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:51
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->__call('spMostrarPeli', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->spMostrarPeli(0, 5)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(16): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 51
+[28-Jun-2018 13:01:27 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Mas all\xe1...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:51
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->__call('spMostrarPeli', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->spMostrarPeli(0, 5)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(16): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 51
+[28-Jun-2018 13:04:41 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Mas all\xe1...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:51
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->__call('spMostrarPeli', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->spMostrarPeli(0, 5)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(16): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 51
+[28-Jun-2018 13:06:40 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Mas all\xe1...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:51
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->__call('spMostrarPeli', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->spMostrarPeli(0, 5)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(16): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 51
+[28-Jun-2018 13:20:47 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Mas all\xe1...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:51
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->__call('spMostrarPeli', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->spMostrarPeli(0, 6)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(16): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 51
+[28-Jun-2018 19:19:16 America/Chicago] PHP Warning:  require_once(paginas/crud.php): failed to open stream: No such file or directory in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[28-Jun-2018 19:19:17 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'paginas/crud.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wearelio/citymovie.weare8lions.com.mx/index.php on line 16
+[03-Jul-2018 21:48:32 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/crud.php on line 31
+[03-Jul-2018 22:09:54 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/wearelio/citymovie.weare8lions.com.mx/paginas/crud.php on line 64
+[04-Jul-2018 02:01:00 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/wearelio/citymovie.weare8lions.com.mx/paginas/crud.php on line 111
+[16-Aug-2018 14:23:50 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Un cervatillo crece en el bosque junto al conejo Thumper, Flor el zorrillo y un b\xfa...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:51
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->__call('spMostrarPeli', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->spMostrarPeli(0, 100)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(17): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 51
+[16-Aug-2018 14:25:02 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Un cervatillo crece en el bosque junto al conejo Thumper, Flor el zorrillo y un b\xfa...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:51
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->__call('spMostrarPeli', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->spMostrarPeli(0, 100)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(17): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 51
+[16-Aug-2018 14:26:05 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Un cervatillo crece en el bosque junto al conejo Thumper, Flor el zorrillo y un b\xfa...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:51
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->__call('spMostrarPeli', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->spMostrarPeli(0, 6)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(17): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 51
+[16-Aug-2018 14:26:29 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [SOAP-ENV:Server] SOAP-ERROR: Encoding: string 'Un cervatillo crece en el bosque junto al conejo Thumper, Flor el zorrillo y un b\xfa...' is not a valid utf-8 string in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php:51
+Stack trace:
+#0 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->__call('spMostrarPeli', Array)
+#1 /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php(51): SoapClient->spMostrarPeli(0, 6)
+#2 /home/wearelio/citymovie.weare8lions.com.mx/index.php(17): require_once('/home/wearelio/...')
+#3 {main}
+  thrown in /home/wearelio/citymovie.weare8lions.com.mx/paginas/paginar.php on line 51
